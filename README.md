@@ -19,12 +19,12 @@ codeforces/
 
 **Create a new problem:**
 ```bash
-make new p=4a
+make new 4a
 ```
 
 **Run a solution:**
 ```bash
-make 4a
+make run 4a
 ```
 
 ## My Environment
