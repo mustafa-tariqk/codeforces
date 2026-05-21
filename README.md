@@ -1,9 +1,5 @@
 # Codeforces Solutions
 
-My competitive programming solutions for [Codeforces](https://codeforces.com).
-
-**Profile:** [mustafa-tariqk](https://codeforces.com/profile/mustafa-tariqk)
-
 ## Structure
 
 ```
